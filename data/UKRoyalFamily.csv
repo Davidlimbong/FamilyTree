@@ -1,0 +1,19 @@
+parent,child,generation
+,Elizabeth II,1
+Elizabeth II,Charles,2
+Elizabeth II,Anne,2
+Elizabeth II,Andrew,2
+Elizabeth II,Edward,2
+Charles,William,3
+Charles,Harry,3
+Anne,Peter Phillps,3
+Anne,Zara Tindall,3
+Andrew,Beatrice,3
+Andrew,Eugenie,3
+Edward,Louise,3
+Edward,James,3
+William,George,4
+William,Charlotte,4
+Peter Phillps,Savannah,4
+Peter Phillps,Isla,4
+Zara Tindall,Mia Grace,4
