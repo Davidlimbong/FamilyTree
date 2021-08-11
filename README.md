@@ -1,8 +1,7 @@
-# Overview
+# Family Tree
+
+Project ini memvisualisasikan Family Tree dari kerajaan Inggris menggunakan package `collapsibleTree` dan ditampilkan dalam dashboard menggunakan package shiny. 
 
 ![](img/demo.gif)
 
-
-# Next on to-do list :
-- Add more profile for every node (picture, title, etc)
-- Toba Batak kinship system [Partuturan Batak Toba](https://id.wikipedia.org/wiki/Partuturan_Batak_Toba)
+dokumentasi pembuatan tree bisa dilihat [disini](https://rpubs.com/Davidlimbong/familytree)
